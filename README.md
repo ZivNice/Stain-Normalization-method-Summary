@@ -17,7 +17,7 @@
  1. **2016年，Structure-Preserving Color Normalization and SparseStain
     Separation for Histological Images，组织图像保持结构的颜色归一化和稀疏染色分离**
 
-	该文详细介绍SNMF、SPCN和基于块实现的加速染色剂颜色基础估计的方案。[【代码入口】](https://github.com/abhishekvahadane/CodeRelease_ColorNormalization)
+	该文详细介绍SNMF、SPCN和基于块实现的加速染色剂颜色基础估计的方案。**基于matlab** [【代码入口】](https://github.com/abhishekvahadane/CodeRelease_ColorNormalization)
 
 2. **2019年，STAINGAN: STAIN STYLE TRANSFER FOR DIGITAL HISTOLOGICAL IMAGES，染色:用于数字组织图像的染色样式转移**
 评估我们的模型与Reinhard， Macenko， Khan和Vahadane的先进方法。代码受到[pytorch-DCGAN](https://github.com/pytorch/examples/tree/master/dcgan)和[CycleGAN](https://github.com/junyanz/CycleGAN)的启发。[【代码入口】](https://github.com/xtarx/StainGAN)
